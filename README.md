@@ -37,16 +37,16 @@ When I'm not working, I like to create and improve personal side projects to pra
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=xiaosasori&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xiaosasori&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" />
+<a href="https://github-readme-stats.vercel.app/api?username=anhnm96&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=anhnm96&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaosasori&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaosasori&theme=tokyonight&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnm96&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnm96&theme=tokyonight&layout=compact" />
 </a>
 </div>
 
 <!--
-**xiaosasori/xiaosasori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anhnm96/anhnm96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm still working on solidifying my understanding of Nuxt, and plan to follow that up with learning Go and building full-stack applications.
 Here are some ideas to get you started:
 
