@@ -26,9 +26,8 @@ When I'm not working, I like to create and improve personal side projects to pra
 ![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=27A0D9)
 
 ## 📧 Find me on:
-
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anhnm896) -->
 [![Twitter](https://img.shields.io/badge/twitter-090909?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/anhnm896)
-[![LinkedIn](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anhnm896)
 [![Gmail](https://img.shields.io/badge/gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:anhnm896@gmail.com)
 
 ## 🏆 My Github Stats:
