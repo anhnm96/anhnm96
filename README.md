@@ -18,7 +18,7 @@ When I'm not working, I like to create and improve personal side projects to pra
 ![Cypress](https://img.shields.io/badge/cypress-090909?style=for-the-badge&logo=cypress&logoColor=fff)
 ![Tanstack Query](https://img.shields.io/badge/tanstack%20query-090909?style=for-the-badge&logo=React%20Query&logoColor=FF4154)
 ![Prisma](https://img.shields.io/badge/prisma-090909?style=for-the-badge&logo=prisma&logoColor=fff)
-![Nest](https://img.shields.io/badge/nest-090909?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Rust](https://img.shields.io/badge/rust-090909?style=for-the-badge&logo=rust&logoColor=ff7043)
 ![Go](https://img.shields.io/badge/go-090909?style=for-the-badge&logo=go&logoColor=79D4FD)
 ![Redis](https://img.shields.io/badge/redis-090909?style=for-the-badge&logo=redis&logoColor=DC382C)
 ![MongoDB](https://img.shields.io/badge/mongodb-090909?style=for-the-badge&logo=mongodb&logoColor=47A248)
@@ -37,11 +37,11 @@ When I'm not working, I like to create and improve personal side projects to pra
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=anhnm96&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=anhnm96&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" />
+<a href="https://readme-stats-fast.vercel.app/api?username=anhnm96&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github">
+  <img  align="left" src="https://readme-stats-fast.vercel.app/api?username=anhnm96&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnm96&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhnm96&theme=tokyonight&layout=compact" />
+<a href="https://readme-stats-fast.vercel.app/api/top-langs/?username=anhnm96&theme=tokyonight&layout=compact">
+  <img align="left" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=anhnm96&theme=tokyonight&layout=compact" />
 </a>
 </div>
 
